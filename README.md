@@ -1,2 +1,1 @@
-# RPGDemo
 RPG Concept Demo
